@@ -22,6 +22,7 @@ namespace SocketPiirto_receiver_runko
         public Form1()
         {
             InitializeComponent();
+
             //Käynnistä server motodi omaan säikeeseen 
         }
 
@@ -40,7 +41,9 @@ namespace SocketPiirto_receiver_runko
             while (true)
             {
                //client luo network streamin ja muuntaa tavut merkkijonoksi
-               //kutsutaan metodia jossa piirto tapahtuu. koordinaatit mennee parametrinä
+               //kutsutaan metodia jossa piirto tapahtuu. koordinaatit menee parametrinä
+
+
 
             }
 
