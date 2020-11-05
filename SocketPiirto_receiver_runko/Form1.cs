@@ -42,9 +42,6 @@ namespace SocketPiirto_receiver_runko
             {
                //client luo network streamin ja muuntaa tavut merkkijonoksi
                //kutsutaan metodia jossa piirto tapahtuu. koordinaatit menee parametrinä
-
-
-
             }
 
         }
